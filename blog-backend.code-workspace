@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "blog-backend",
+			"path": "../blog/blog-backend"
+		},
+		{
+			"name": "blog-frontend",
+			"path": "../blog/blog-frontend"
+		},
+		{
+			"name": "todo-app",
+			"path": "../todo-app"
+		},
+		{
+			"name": "typescript-app",
+			"path": "../typescript-app"
+		},
+		{
+			"name": "news-viewer",
+			"path": "../news-viewer"
+		},
+		{
+			"name": "wanted-pre-onboarding-frontend",
+			"path": "../wanted-pre-onboarding-frontend"
+		},
+		{
+			"name": "sherwood",
+			"path": "../sherwood"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
